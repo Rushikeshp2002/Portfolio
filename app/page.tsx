@@ -4,7 +4,7 @@ import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import Skills from "@/components/Skills";
-import Footer from "@/components/footer";
+import Footer from "@/components/Footer";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems } from "@/data";
 import Image from "next/image";
