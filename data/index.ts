@@ -72,19 +72,19 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "CleverCV",
+      des: "Build resumes effortlessly with CleverCV. Secure login with Clerk Auth, responsive design with React.js and TailwindCSS, and AI-generated, ATS-friendly content. Download as PDF or share a live preview link",
+      img: "/Frame 6.png",
+      iconLists: ["/re.svg", "/tail.svg", "/shad.png", "/clerk.jpg","strapi.png"],
+      link: "https://github.com/Rushikeshp2002/CleverCV-AI-Resume-Builder",
+    },
+    {
+      id: 2,
       title: "Netflix-GPT",
       des: "Enjoy a Netflix-like platform with secure Firebase auth, fast performance via Redux Toolkit, and personalized content recommendations from OpenAI API.",
       img: "/nf2.png",
       iconLists: ["/re.svg", "/tail.svg", "/firebase.svg", "/redux.svg"],
       link: "https://github.com/Rushikeshp2002/Netflix-GPT",
-    },
-    {
-      id: 2,
-      title: "Convoia - MERN Chat App",
-      des: "Created a real-time chat app with React, Node.js, and Socket.io, featuring secure authentication and scalable architecture with bcrypt and MongoDB.",
-      img: "/ca1.png",
-      iconLists: ["/re.svg", "/tail.svg","node.svg","mo.svg","so2.png"],
-      link: "https://github.com/Rushikeshp2002/MERN-Chat-App",
     },
     {
       id: 3,
