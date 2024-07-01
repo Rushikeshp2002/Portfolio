@@ -36,7 +36,7 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Rushikesh, a Front End Developer based in Pune, India
           </p>
-          <a href="https://drive.google.com/file/d/1J00AGZjHFA31vC-eaEeYQL0k88wnlOQz/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1ece8V431In2mZa7m7uUUNkW0CdWUiIkV/view?usp=sharing">
             <MagicButton
               icon={<FaLocationArrow />}
               title="Download My CV"
