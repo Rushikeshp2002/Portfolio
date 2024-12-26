@@ -76,7 +76,7 @@ export const navItems = [
       des: "Build resumes effortlessly with CleverCV. Secure login with Clerk Auth, responsive design with React.js and TailwindCSS, and AI-generated, ATS-friendly content. Download as PDF or share a live preview link",
       img: "/Frame 6.png",
       iconLists: ["/re.svg", "/tail.svg", "/shad.png", "/clerk.jpg","strapi.png"],
-      link: "https://github.com/Rushikeshp2002/CleverCV-AI-Resume-Builder",
+      link: "https://github.com/Rushikeshp2002/ai_resume_builder_fullstack",
     },
     {
       id: 2,
